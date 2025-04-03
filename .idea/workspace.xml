@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="416e0730-3bc1-45d2-9a27-2be9339509a4" name="Changes" comment="New Mod">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scalability_fullSweep_multi_bit.py" beforeDir="false" afterPath="$PROJECT_DIR$/scalability_fullSweep_multi_bit.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,7 @@
     "Python.modified_gen_arch.executor": "Run",
     "Python.new_analog_dpu_scal.executor": "Run",
     "Python.new_digital_arch_scal.executor": "Run",
+    "Python.scalability_fullSweep_multi_bit.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Rebasing main",

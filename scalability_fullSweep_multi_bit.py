@@ -104,5 +104,5 @@ def run_sweep_with_type(B_vals=[1, 2, 3, 4], DR_vals=[1, 5, 10], PLaser=10):
     return pd.DataFrame(results)
 
 df = run_sweep_with_type()
-df.to_csv("results/analog_scal_sweep_multi_bit_tagged.csv", index=False)
+df.to_csv("results/analog_scal_sweep_multi_bit.csv", index=False)
 print("Saved to analog_scal_fullsweep_multi_bits_results.csv")
