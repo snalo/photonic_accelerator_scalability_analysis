@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="416e0730-3bc1-45d2-9a27-2be9339509a4" name="Changes" comment="New Mod">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ScalabilityArch.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/PythonSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ScalabilityArch/FileContentIndex/2b59cfcd-88c7-4bed-bd71-0ff1db223010.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ScalabilityArch/FileContentIndex/4990e061-5064-4413-a1b0-c028de761486.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ScalabilityArch/FileContentIndex/4d893800-eb35-4d2d-9cab-8468d833b66e.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ScalabilityArch/FileContentIndex/704e763c-bf98-4811-a887-49e54cf1f50a.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ScalabilityArch/FileContentIndex/8f4af075-9765-4c7e-bbc6-95c1a323e6e2.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ScalabilityArch/v17/.wsuo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ScalabilityArch/v17/DocumentLayout.backup.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ScalabilityArch/v17/DocumentLayout.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/digital_scal_1bit.py" beforeDir="false" afterPath="$PROJECT_DIR$/digital_scal_1bit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_digital_dpu_scal.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_digital_dpu_scal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scalability_fullSweep_multi_bit.py" beforeDir="false" afterPath="$PROJECT_DIR$/scalability_fullSweep_multi_bit.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

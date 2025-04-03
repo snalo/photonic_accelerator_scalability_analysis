@@ -1,0 +1,19 @@
+Tier,Org Mode,Topology,Bit Precision (B),Data Rate (GS/s),Max N or M,Total ADC Power (mW)
+Tier_1,AMW,N=M,4,1,15,900.0
+Tier_1,AMW,N=M,4,5,7,980.0
+Tier_1,AMW,N=M,4,10,5,1000.0
+Tier_2,AMW,NnotM,4,1,31,992.0
+Tier_2,AMW,NnotM,4,5,6,960.0
+Tier_2,AMW,NnotM,4,10,3,960.0
+Tier_3,MAW,N=M,4,1,15,900.0
+Tier_3,MAW,N=M,4,5,7,980.0
+Tier_3,MAW,N=M,4,10,5,1000.0
+Tier_4,MAW,NnotM,4,1,31,992.0
+Tier_4,MAW,NnotM,4,5,6,960.0
+Tier_4,MAW,NnotM,4,10,3,960.0
+Tier_5,MWA,N=M,4,1,15,900.0
+Tier_5,MWA,N=M,4,5,7,980.0
+Tier_5,MWA,N=M,4,10,5,1000.0
+Tier_6,MWA,NnotM,4,1,31,992.0
+Tier_6,MWA,NnotM,4,5,6,960.0
+Tier_6,MWA,NnotM,4,10,3,960.0

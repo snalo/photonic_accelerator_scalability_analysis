@@ -1,0 +1,19 @@
+Tier,Org Mode,Topology,Bit Precision (B),Data Rate (GS/s),PD Threshold (dBm),Max N or M,P_out (dBm)
+Tier_1,AMW,N=M,8,1,-22.0,73,-22.07
+Tier_1,AMW,N=M,8,5,-15.01,20,-15.2
+Tier_1,AMW,N=M,8,10,-12.0,10,-12.12
+Tier_2,AMW,NnotM,8,1,-22.0,108,-22.07
+Tier_2,AMW,NnotM,8,5,-15.01,42,-15.06
+Tier_2,AMW,NnotM,8,10,-12.0,14,-12.08
+Tier_3,MAW,N=M,8,1,-22.0,85,-22.04
+Tier_3,MAW,N=M,8,5,-15.01,24,-15.07
+Tier_3,MAW,N=M,8,10,-12.0,13,-12.25
+Tier_4,MAW,NnotM,8,1,-22.0,117,-22.03
+Tier_4,MAW,NnotM,8,5,-15.01,51,-15.02
+Tier_4,MAW,NnotM,8,10,-12.0,23,-12.04
+Tier_5,MWA,N=M,8,1,-22.0,130,-22.04
+Tier_5,MWA,N=M,8,5,-15.01,43,-15.02
+Tier_5,MWA,N=M,8,10,-12.0,24,-12.07
+Tier_6,MWA,NnotM,8,1,-22.0,146,-22.1
+Tier_6,MWA,NnotM,8,5,-15.01,80,-15.1
+Tier_6,MWA,NnotM,8,10,-12.0,51,-12.02

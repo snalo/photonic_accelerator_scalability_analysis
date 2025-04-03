@@ -1,0 +1,11 @@
+,org_mode,NM,N size/M Count,PLaser,Pout,no_of_bits,DR,,,,,,
+0,MWA,N=M,13,1,-18.25335391,4,1,,,,,,
+1,MWA,N=M,6,1,-15.05105395,4,5,,,,,,
+2,MWA,N=M,4,1,-13.53291932,4,10,,,,,,
+,,,,,,,,,Architecture,UNIT COUNTS,ELEMENT SIZE,ELEMENT COUNT,Area per Unit
+,,,,,,,,,SPOGA,70,249,16,146701.8611
+,,,,,,,,,HOLYLIGHT,180,43,43,15580.59359
+,,,,,,,,,DEAPCNN,200,15,15,6044.756214
+,,,,,,,,,PIXEL_EO,200,4,4,1623.6869
+,,,,,,,,,PIXEL_OO,1,4,4,6854408.382
+,,,,,,,,,PIDCOP,250,150,4,2056.42294
