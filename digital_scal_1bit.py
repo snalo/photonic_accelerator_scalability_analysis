@@ -76,7 +76,7 @@ def findOptimalParallelism(PLaser, Pd_thresh_dbm, tpe, p_penalty):
         return maxN, Pout
     elif tpe == "NnotM":
         maxM = 1
-        n = 8  # Fixed row count for broadcast-style network
+        n = 8  #Hardcoded for number of wavelength per waveguide. - corresponds to the bits or AND operations done in parallel
         for m in range(1, 500000):
             Pout = PLaser - losses["Psmf_att"] - losses["Pec_il"] - losses["Psplitter_il"] * np.log2(m) - \
                    10 * np.log10(n) - (losses["Psi_att"] * n * m * losses["dMRR"]) - losses["Pmrr_fltr_il"] - \
